@@ -1,4 +1,4 @@
-public class OrderedList_inArraySlots{
+public class OrderedList_inArraySlots implements OrderedList{
 
   private List_inArraySlots orderedList;
 
